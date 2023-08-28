@@ -3,6 +3,7 @@ price-multiplier: 1.5
 issue-creator-multiplier: 2
 time-labels:
   - name: "Time: <1 Hour"
+    weight: 1
   - name: "Time: <2 Hours"
   - name: "Time: <4 Hours"
   - name: "Time: <1 Day"
