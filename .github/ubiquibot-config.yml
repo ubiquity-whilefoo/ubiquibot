@@ -30,7 +30,7 @@ incentives:
       a: 0.5
       blockquote: 1
     totals:
-      word: a
+      word: 0.1
 register-wallet-with-verification: false
 assistive-pricing: true
 test: abc
