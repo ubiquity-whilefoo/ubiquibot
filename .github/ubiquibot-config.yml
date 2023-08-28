@@ -28,9 +28,8 @@ incentives:
       h1: 1
       li: 0.5
       a: 0.5
-      blockquote: 1
+      blockquote: a
     totals:
       word: 0.1
 register-wallet-with-verification: false
 assistive-pricing: true
-tst: a
