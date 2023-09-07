@@ -23,13 +23,13 @@ promotion-comment: "<h6>If you've enjoyed your experience in the DevPool, we'd a
 incentives:
   comment:
     elements:
-      code: 5
-      img: 5
-      h1: 1
-      li: 0.5
-      a: 0.5
+      code: 10
+      img: 0
+      h1: 5
+      li: 0
+      a: 0
       blockquote: 0
     totals:
-      word: 0.1
+      word: 0
 register-wallet-with-verification: false
 assistive-pricing: true
