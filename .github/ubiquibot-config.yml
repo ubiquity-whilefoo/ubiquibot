@@ -32,4 +32,4 @@ incentives:
       word: 0
 register-wallet-with-verification: false
 assistive-pricing: true
-stale-bounty-time: 1d
+stale-bounty-time: 1m
