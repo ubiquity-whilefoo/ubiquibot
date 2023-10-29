@@ -1,1 +1,71 @@
+keys:
+  evmPrivateEncrypted: ytOIGj-ECNFVu7c2PjeE08nySalxdHklTPbrPp5pJmIrcsSEOnCLhTO5xIfGdMDcKj28EUd3K43CB6KJYPNHHyHQTZAYpjvd-pgpWSG6PEsyYQ_OMYPDY-aLFbkM4JgN7rQB_SBDp4iUFqgrRfW8RA
 
+# logs:
+#   -
+# features:
+#   assistivePricing: true
+
+# timers:
+#   -
+payments:
+  evmNetworkId: 100
+  basePriceMultiplier: 1
+  issueCreatorMultiplier: 3
+  maxPermitPrice: 1000
+commands:
+  incentives:
+    comment:
+      elements:
+        code: 1
+        img: 0
+        h1: 1
+        h2: 1
+        h3: 1
+        h4: 1
+        h5: 1
+        h6: 1
+        li: 0.5
+        a: 1
+        blockquote: 0
+        i: 0
+      totals:
+        word: 0.1
+labels:
+  time:
+    - name: "Time: <1 Hour"
+    - name: "Time: <2 Hours"
+    - name: "Time: <4 Hours"
+    - name: "Time: <1 Day"
+    - name: "Time: <1 Week"
+  priority:
+    - name: "Priority: 1 (Normal)"
+    - name: "Priority: 2 (Medium)"
+    - name: "Priority: 3 (High)"
+    - name: "Priority: 4 (Urgent)"
+    - name: "Priority: 5 (Emergency)"
+miscellaneous:
+  promotionComment: "###### If you enjoy the DevPool experience, please follow [Ubiquity on GitHub](https://github.com/ubiquity) and star [this repo](https://github.com/ubiquity/devpool-directory) to show your support. It helps a lot!"
+  maxConcurrentTasks: 2
+  registerWalletWithVerification: false
+#    commandSettings:
+#      - name: start
+#        enabled: true
+#      - name: stop
+#        enabled: true
+#      - name: wallet
+#        enabled: true
+#      - name: payout
+#        enabled: true
+#      - name: multiplier
+#        enabled: true
+#      - name: query
+#        enabled: true
+#      - name: allow
+#        enabled: true
+#      - name: autopay
+#        enabled: true
+#      - name: ask
+#        enabled: true
+#      - name: review
+#        enabled: true
