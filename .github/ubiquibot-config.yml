@@ -1,5 +1,2 @@
-commands:
-  - name: start
-    enabled: false
-  - name: stop
-    enabled: true
+features:
+  assistivePricing: false
