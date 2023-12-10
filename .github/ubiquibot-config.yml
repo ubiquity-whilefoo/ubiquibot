@@ -1,2 +1,3 @@
 features:
   assistivePricing: false
+  isNftRewardEnabled: true
